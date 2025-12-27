@@ -1,16 +1,20 @@
-# React + Vite
+# 🪙 Cryptocurrency Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **real-time cryptocurrency tracker** built with **React, JavaScript, Vite, CSS, Recharts and CoinGecko API**. Track live prices, view interactive 7-day charts and explore detailed coin information with dynamic routing and market data.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- 🪙 **Cryptocurrency Tracker** : Track multiple cryptocurrencies in real-time.
+- 📊 **Real-time Prices** : Live market data from CoinGecko API.
+- 📈 **Price Charts** : Interactive 7-day price charts using Recharts.  
+- 🔍 **Coin Details** : View detailed information for each cryptocurrency.  
+- 🎯 **Dynamic Routing** : Individual pages for each coin.
+- 💰 **Market Data** : Market cap, volume and price changes.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Screenshot
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1919" height="1074" alt="Screenshot 2025-12-27 105557" src="https://github.com/user-attachments/assets/0f2d76ac-4d9c-4296-b9bf-1429c4e1b72f" />
