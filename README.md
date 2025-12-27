@@ -7,7 +7,7 @@ A **real-time cryptocurrency tracker** built with **React, JavaScript, Vite, CSS
 ## 🚀 Features
 
 - 🪙 **Cryptocurrency Tracker** : Track multiple cryptocurrencies in real-time.
-- 📊 **Real-time Prices** : Live market data from CoinGecko API.
+- 📊 **Live Prices** : Live market data from CoinGecko API.
 - 📈 **Price Charts** : Interactive 7-day price charts using Recharts.  
 - 🔍 **Coin Details** : View detailed information for each cryptocurrency.  
 - 🎯 **Dynamic Routing** : Individual pages for each coin.
